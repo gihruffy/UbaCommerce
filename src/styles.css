@@ -1,1 +1,77 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+
+a, p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+    text-decoration: none; }
+  
+  ul, ol {
+    list-style: none; }
+  
+  header, nav, article,
+  section, aside, footer {
+    display: block; }
+  
+  figure {
+    line-height: 0; }
+  
+  figure > img {
+    width: 100%; }
+  
+  figure > figcaption {
+    display: none; 
+}
+
+header {
+  width: 100%;
+  background-color: #2b373a; 
+}
+
+header::after{
+  display: table;
+  content: '';
+  clear: both;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.logo {
+    float: left;
+}
+
+.user-board {
+  float: right;
+}
+
+
+.user-board img {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  z-index: 9999;
+}
+
+
+
+
+
+
+
+
+/* .header-wrap {
+    background-color: #2b373a; 
+    height: 100px;
+    width: 100%;
+}
+ */

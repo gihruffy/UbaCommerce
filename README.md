@@ -1,5 +1,11 @@
 # UbaCommerce
 
+Using Angular and Emerald Dragon Template to build a Marketplace.
+
+The objective of this project is to train my frontend skills
+
+#Language
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
 ## Development server
@@ -25,3 +31,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Authors 
+
+* **Giovanni Martinelli**  
